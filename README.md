@@ -1,6 +1,4 @@
-# granty43.github.io
-## Markdown 2
-~~!The world is flat.~~
-
-| Article | Subject |
-| Article 1 | Name of Oreg |
+# Random Musings
+## Community Building with Tech Services
+### Web Pages
+Web Sites are the Basic Signpost of an Organization on the web
